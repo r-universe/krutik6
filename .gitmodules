@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SARC"]
+	path = SARC
+	url = https://github.com/krutik6/sarc
 [submodule "TimiRGeN"]
 	path = TimiRGeN
 	url = https://github.com/krutik6/timirgen
